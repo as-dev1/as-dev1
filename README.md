@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&weight=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John!+🙂;" />
+</h1>
 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&weight=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;" />
+</h1>
 <!--
 **John-Dev/John-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
