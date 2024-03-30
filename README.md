@@ -18,6 +18,12 @@ Happy coding! 🚀
     <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux,figma" /><br/>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=500 src="https://streak-stats.demolab.com/?user=John-Dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&weight=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;" />
 </h1>
