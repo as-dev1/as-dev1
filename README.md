@@ -15,7 +15,7 @@ Happy coding! 🚀
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,react,nextjs,java,spring,mysql" /><br/>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,linux,figma" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,linux,figma" /><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
