@@ -21,7 +21,7 @@ Happy coding! 🚀
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://streak-stats.demolab.com/?user=John-Dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=500 src="https://streak-stats.demolab.com/?user=as-dev1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <h1 align="center">
