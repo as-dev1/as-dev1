@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&weight=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John!+🙂;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&weight=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aleksandar!+🙂;" />
 </h1>
 
 💻 I'm a Front-End Web Developer with a passion for creating interactive and dynamic web experiences. 
