@@ -2,20 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&weight=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aleksandar!+🙂;" />
 </h1>
 
-💻 I'm a Front-End Web Developer with a passion for creating interactive and dynamic web experiences. 
+💻 I'm a Front-End Web Developer. 
 
-🔥 I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn new technologies and frameworks.
-Here on my GitHub, you'll find a variety of projects that I've worked on, showcasing my skills and growth as a developer. 
+🔥I have a strong understanding of JavaScript and TypeScript, with a focus on web frameworks like React and Next.js. 
 
-📃 Feel free to explore, and don't hesitate to reach out if you have any questions!
+I have solid experience with backend development using Express and MongoDB.
 
-Happy coding! 🚀
+📃 Here on my GitHub, you'll find multiple projects that I've worked on. Feel free to explore.
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Libraries-Frameworks⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,react,nextjs,java,spring,mysql" /><br/>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,linux,figma" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,ts,tailwind,react,redux,nextjs,angular,express,mongodb" /><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
